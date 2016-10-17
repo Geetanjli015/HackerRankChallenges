@@ -1,1 +1,1 @@
-Repository for Coding practice.
+Repository for hackerrank coding challenges.
