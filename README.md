@@ -1,1 +1,1 @@
-Repository for hackerrank coding challenges .
+Repository for hackerrank coding challenges.
